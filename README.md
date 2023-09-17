@@ -34,9 +34,13 @@ To improve the model the training data was improved by oversampling and the new 
 Hyper parameter tuning was also done to improve our model predictions 
 ## Conclusions
 The final model has an accuracy of around 80% on test data which is fairly good and can have many several uses.
+
 The model is still biased on capturing negative emotions even after improvement.
+
 The model still can’t be reliable on sensitive task such as customer support as it is still poor on detecting negative emotions and a score 80% accuracy is still low for sensitive cases.
 ## Recommendations
 It is recommended that our model should be incorporate in tech companies’ system to help in detecting public emotions
+
 We recommend that the model should not be used for sensitive feeling cases such as customer support as it is having a lower power in detecting negative feelings.
+
 More data is required for further training of the model to improve its accuracy and detection of negative feelings.
